@@ -11,9 +11,12 @@
     "ecmaVersion": 12,
     "sourceType": "module",
     "babelOptions": {
-      "presets": ["@babel/preset-env", "@babel/preset-react"] 
+      "presets": [
+        "@babel/preset-env",
+        "@babel/preset-react"
+      ]
     },
-    "requireConfigFile": false 
+    "requireConfigFile": false
   },
   "extends": [
     "react-app",

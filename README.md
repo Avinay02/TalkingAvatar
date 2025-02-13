@@ -1,7 +1,6 @@
 Overview
 The Talking Photo Application is an innovative web app that allows users to upload a static photo and convert it into a talking avatar.
-The app lets users input text, which is then converted into speech and synchronized with the photo. The app supports multiple languages 
-and provides an engaging way to turn static images into dynamic, talking photos.
+provides an engaging way to turn static images into dynamic, talking photos.
 
 Features
 Upload a photo: Users can upload their own image.
